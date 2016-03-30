@@ -1,0 +1,29 @@
+.cr{
+background-color: #7FFF00;
+padding:0.5%;
+border:1%;
+}
+h1{
+text-align: center;
+color:green;
+}
+body{
+background-image: url(img/fond.jpg);
+background-size: cover;
+background-position: top;
+background-repeat:no-repeat;
+}
+button{
+vertical-align:middle;
+}
+ p{
+background-color:#7FFF00;
+font-family: "Georgia";
+width:50%;
+position: center;
+text-align: left;
+}
+div{
+background-color:#7FFF00;
+font-family: "Georgia";
+}
